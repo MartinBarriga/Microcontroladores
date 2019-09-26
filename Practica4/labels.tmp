@@ -1,0 +1,39 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega8535</DEVICE>
+ <WORKING_DIR>C:\Documents and Settings\Martin\Escritorio\Practica4</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Archivos de programa\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Documents and Settings\Martin\Escritorio\Practica4\Practica4.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Archivos de programa\Atmel\AVR Tools\AvrAssembler2\Appnotes\m8535def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Documents and Settings\Martin\Escritorio\Practica4\Practica4.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Documents and Settings\Martin\Escritorio\Practica4\Practica4.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Documents and Settings\Martin\Escritorio\Practica4\Practica4.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <inic><FILE>C:\Documents and Settings\Martin\Escritorio\Practica4\Practica4.asm</FILE><LINE>9</LINE></inic>
+  <otro><FILE>C:\Documents and Settings\Martin\Escritorio\Practica4\Practica4.asm</FILE><LINE>12</LINE></otro>
+  <delay><FILE>C:\Documents and Settings\Martin\Escritorio\Practica4\Practica4.asm</FILE><LINE>112</LINE></delay>
+  <targetNueve><FILE>C:\Documents and Settings\Martin\Escritorio\Practica4\Practica4.asm</FILE><LINE>51</LINE></targetNueve>
+  <targetOcho><FILE>C:\Documents and Settings\Martin\Escritorio\Practica4\Practica4.asm</FILE><LINE>57</LINE></targetOcho>
+  <targetSiete><FILE>C:\Documents and Settings\Martin\Escritorio\Practica4\Practica4.asm</FILE><LINE>63</LINE></targetSiete>
+  <targetSeis><FILE>C:\Documents and Settings\Martin\Escritorio\Practica4\Practica4.asm</FILE><LINE>69</LINE></targetSeis>
+  <targetCinco><FILE>C:\Documents and Settings\Martin\Escritorio\Practica4\Practica4.asm</FILE><LINE>75</LINE></targetCinco>
+  <targetCuatro><FILE>C:\Documents and Settings\Martin\Escritorio\Practica4\Practica4.asm</FILE><LINE>81</LINE></targetCuatro>
+  <targetTres><FILE>C:\Documents and Settings\Martin\Escritorio\Practica4\Practica4.asm</FILE><LINE>87</LINE></targetTres>
+  <targetDos><FILE>C:\Documents and Settings\Martin\Escritorio\Practica4\Practica4.asm</FILE><LINE>93</LINE></targetDos>
+  <targetUno><FILE>C:\Documents and Settings\Martin\Escritorio\Practica4\Practica4.asm</FILE><LINE>99</LINE></targetUno>
+  <targetCero><FILE>C:\Documents and Settings\Martin\Escritorio\Practica4\Practica4.asm</FILE><LINE>105</LINE></targetCero>
+  <WGLOOP0><FILE>C:\Documents and Settings\Martin\Escritorio\Practica4\Practica4.asm</FILE><LINE>118</LINE></WGLOOP0>
+  <WGLOOP1><FILE>C:\Documents and Settings\Martin\Escritorio\Practica4\Practica4.asm</FILE><LINE>119</LINE></WGLOOP1>
+  <WGLOOP2><FILE>C:\Documents and Settings\Martin\Escritorio\Practica4\Practica4.asm</FILE><LINE>120</LINE></WGLOOP2>
+ </LABELS>
+</ASSEMBLER_INFO>
