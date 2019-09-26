@@ -1,0 +1,40 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega8535</DEVICE>
+ <WORKING_DIR>C:\Documents and Settings\Martin\Escritorio\Practica3</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Archivos de programa\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Documents and Settings\Martin\Escritorio\Practica3\Practica3.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Archivos de programa\Atmel\AVR Tools\AvrAssembler2\Appnotes\m8535def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Documents and Settings\Martin\Escritorio\Practica3\Practica3.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Documents and Settings\Martin\Escritorio\Practica3\Practica3.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Documents and Settings\Martin\Escritorio\Practica3\Practica3.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <inic><FILE>C:\Documents and Settings\Martin\Escritorio\Practica3\Practica3.asm</FILE><LINE>12</LINE></inic>
+  <targetCero><FILE>C:\Documents and Settings\Martin\Escritorio\Practica3\Practica3.asm</FILE><LINE>112</LINE></targetCero>
+  <targetUno><FILE>C:\Documents and Settings\Martin\Escritorio\Practica3\Practica3.asm</FILE><LINE>107</LINE></targetUno>
+  <targetDos><FILE>C:\Documents and Settings\Martin\Escritorio\Practica3\Practica3.asm</FILE><LINE>102</LINE></targetDos>
+  <targetTres><FILE>C:\Documents and Settings\Martin\Escritorio\Practica3\Practica3.asm</FILE><LINE>97</LINE></targetTres>
+  <targetCuatro><FILE>C:\Documents and Settings\Martin\Escritorio\Practica3\Practica3.asm</FILE><LINE>92</LINE></targetCuatro>
+  <targetCinco><FILE>C:\Documents and Settings\Martin\Escritorio\Practica3\Practica3.asm</FILE><LINE>87</LINE></targetCinco>
+  <targetSeis><FILE>C:\Documents and Settings\Martin\Escritorio\Practica3\Practica3.asm</FILE><LINE>82</LINE></targetSeis>
+  <targetSiete><FILE>C:\Documents and Settings\Martin\Escritorio\Practica3\Practica3.asm</FILE><LINE>77</LINE></targetSiete>
+  <targetOcho><FILE>C:\Documents and Settings\Martin\Escritorio\Practica3\Practica3.asm</FILE><LINE>72</LINE></targetOcho>
+  <targetNueve><FILE>C:\Documents and Settings\Martin\Escritorio\Practica3\Practica3.asm</FILE><LINE>67</LINE></targetNueve>
+  <targetA><FILE>C:\Documents and Settings\Martin\Escritorio\Practica3\Practica3.asm</FILE><LINE>117</LINE></targetA>
+  <targetB><FILE>C:\Documents and Settings\Martin\Escritorio\Practica3\Practica3.asm</FILE><LINE>122</LINE></targetB>
+  <targetC><FILE>C:\Documents and Settings\Martin\Escritorio\Practica3\Practica3.asm</FILE><LINE>127</LINE></targetC>
+  <targetD><FILE>C:\Documents and Settings\Martin\Escritorio\Practica3\Practica3.asm</FILE><LINE>132</LINE></targetD>
+  <targetE><FILE>C:\Documents and Settings\Martin\Escritorio\Practica3\Practica3.asm</FILE><LINE>137</LINE></targetE>
+  <targetF><FILE>C:\Documents and Settings\Martin\Escritorio\Practica3\Practica3.asm</FILE><LINE>142</LINE></targetF>
+ </LABELS>
+</ASSEMBLER_INFO>
