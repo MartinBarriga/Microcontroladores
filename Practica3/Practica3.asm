@@ -13,52 +13,52 @@ inic:
 	in entrada, pinb
 	
 	cpi entrada, $30
-	brne targetCero
+	brge targetCero
 
 	cpi entrada, $31
-	brne targetUno
+	brge targetUno
 	
 	cpi entrada, $32
-	brne targetDos
+	brge targetDos
 
 	cpi entrada, $33
-	brne targetTres
+	brge targetTres
 
 	cpi entrada, $34
-	brne targetCuatro
+	brge targetCuatro
 
 	cpi entrada, $35
-	brne targetCinco
+	brge targetCinco
 
 	cpi entrada, $36
-	brne targetSeis
+	brge targetSeis
 
 	cpi entrada, $37
-	brne targetSiete
+	brge targetSiete
 
 	cpi entrada, $38
-	brne targetOcho
+	brge targetOcho
 
 	cpi entrada, $39
-	brne targetNueve
+	brge targetNueve
 	
 	cpi entrada, $3A
-	brne targetA
+	brge targetA
 
 	cpi entrada, $3B
-	brne targetB
+	brge targetB
 
 	cpi entrada, $3C
-	brne targetC
+	brge targetC
 
 	cpi entrada, $3D
-	brne targetD
+	brge targetD
 
 	cpi entrada, $3E
-	brne targetE
+	brge targetE
 
 	cpi entrada, $3F
-	brne targetF	
+	brge targetF	
 
 	rjmp inic
 
