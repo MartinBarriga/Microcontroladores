@@ -20,21 +20,21 @@
  </OUTPUT_FILES>
  <LABELS>
   <inic><FILE>C:\Documents and Settings\Martin\Escritorio\Practica3\Practica3.asm</FILE><LINE>12</LINE></inic>
-  <targetCero><FILE>C:\Documents and Settings\Martin\Escritorio\Practica3\Practica3.asm</FILE><LINE>110</LINE></targetCero>
-  <targetUno><FILE>C:\Documents and Settings\Martin\Escritorio\Practica3\Practica3.asm</FILE><LINE>105</LINE></targetUno>
-  <targetDos><FILE>C:\Documents and Settings\Martin\Escritorio\Practica3\Practica3.asm</FILE><LINE>100</LINE></targetDos>
-  <targetTres><FILE>C:\Documents and Settings\Martin\Escritorio\Practica3\Practica3.asm</FILE><LINE>95</LINE></targetTres>
-  <targetCuatro><FILE>C:\Documents and Settings\Martin\Escritorio\Practica3\Practica3.asm</FILE><LINE>90</LINE></targetCuatro>
-  <targetCinco><FILE>C:\Documents and Settings\Martin\Escritorio\Practica3\Practica3.asm</FILE><LINE>85</LINE></targetCinco>
-  <targetSeis><FILE>C:\Documents and Settings\Martin\Escritorio\Practica3\Practica3.asm</FILE><LINE>80</LINE></targetSeis>
-  <targetSiete><FILE>C:\Documents and Settings\Martin\Escritorio\Practica3\Practica3.asm</FILE><LINE>75</LINE></targetSiete>
-  <targetOcho><FILE>C:\Documents and Settings\Martin\Escritorio\Practica3\Practica3.asm</FILE><LINE>70</LINE></targetOcho>
-  <targetNueve><FILE>C:\Documents and Settings\Martin\Escritorio\Practica3\Practica3.asm</FILE><LINE>65</LINE></targetNueve>
-  <targetA><FILE>C:\Documents and Settings\Martin\Escritorio\Practica3\Practica3.asm</FILE><LINE>115</LINE></targetA>
-  <targetB><FILE>C:\Documents and Settings\Martin\Escritorio\Practica3\Practica3.asm</FILE><LINE>120</LINE></targetB>
-  <targetC><FILE>C:\Documents and Settings\Martin\Escritorio\Practica3\Practica3.asm</FILE><LINE>125</LINE></targetC>
-  <targetD><FILE>C:\Documents and Settings\Martin\Escritorio\Practica3\Practica3.asm</FILE><LINE>130</LINE></targetD>
-  <targetE><FILE>C:\Documents and Settings\Martin\Escritorio\Practica3\Practica3.asm</FILE><LINE>135</LINE></targetE>
-  <targetF><FILE>C:\Documents and Settings\Martin\Escritorio\Practica3\Practica3.asm</FILE><LINE>140</LINE></targetF>
+  <targetF><FILE>C:\Documents and Settings\Martin\Escritorio\Practica3\Practica3.asm</FILE><LINE>91</LINE></targetF>
+  <targetE><FILE>C:\Documents and Settings\Martin\Escritorio\Practica3\Practica3.asm</FILE><LINE>86</LINE></targetE>
+  <targetD><FILE>C:\Documents and Settings\Martin\Escritorio\Practica3\Practica3.asm</FILE><LINE>81</LINE></targetD>
+  <targetC><FILE>C:\Documents and Settings\Martin\Escritorio\Practica3\Practica3.asm</FILE><LINE>76</LINE></targetC>
+  <targetB><FILE>C:\Documents and Settings\Martin\Escritorio\Practica3\Practica3.asm</FILE><LINE>71</LINE></targetB>
+  <targetA><FILE>C:\Documents and Settings\Martin\Escritorio\Practica3\Practica3.asm</FILE><LINE>66</LINE></targetA>
+  <targetNueve><FILE>C:\Documents and Settings\Martin\Escritorio\Practica3\Practica3.asm</FILE><LINE>97</LINE></targetNueve>
+  <targetOcho><FILE>C:\Documents and Settings\Martin\Escritorio\Practica3\Practica3.asm</FILE><LINE>102</LINE></targetOcho>
+  <targetSiete><FILE>C:\Documents and Settings\Martin\Escritorio\Practica3\Practica3.asm</FILE><LINE>107</LINE></targetSiete>
+  <targetSeis><FILE>C:\Documents and Settings\Martin\Escritorio\Practica3\Practica3.asm</FILE><LINE>112</LINE></targetSeis>
+  <targetCinco><FILE>C:\Documents and Settings\Martin\Escritorio\Practica3\Practica3.asm</FILE><LINE>117</LINE></targetCinco>
+  <targetCuatro><FILE>C:\Documents and Settings\Martin\Escritorio\Practica3\Practica3.asm</FILE><LINE>122</LINE></targetCuatro>
+  <targetTres><FILE>C:\Documents and Settings\Martin\Escritorio\Practica3\Practica3.asm</FILE><LINE>127</LINE></targetTres>
+  <targetDos><FILE>C:\Documents and Settings\Martin\Escritorio\Practica3\Practica3.asm</FILE><LINE>132</LINE></targetDos>
+  <targetUno><FILE>C:\Documents and Settings\Martin\Escritorio\Practica3\Practica3.asm</FILE><LINE>137</LINE></targetUno>
+  <targetCero><FILE>C:\Documents and Settings\Martin\Escritorio\Practica3\Practica3.asm</FILE><LINE>142</LINE></targetCero>
  </LABELS>
 </ASSEMBLER_INFO>
